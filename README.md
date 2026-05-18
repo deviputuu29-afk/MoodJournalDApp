@@ -228,4 +228,4 @@ Mood Journal DApp demonstrates how blockchain technology can be applied beyond f
 
 **Mood Journal DApp**
 *Your Emotions, Your Ownership, Secured on Blockchain.*
-
+ide smart contract CCWYTQXCZGHAYWOOY2HSOFSSFGHBNS5RE25CVWLHOGNOGBXEHJQZ5U5Y
